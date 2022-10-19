@@ -40,9 +40,9 @@
             this.textBox1.Location = new System.Drawing.Point(12, 12);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 118);
+            this.textBox1.Size = new System.Drawing.Size(100, 340);
             this.textBox1.TabIndex = 0;
-            this.textBox1.Text = "A\r\na\r\n7\r\n\\\r\n\\\r\n*\r\n+\r\n-";
+            this.textBox1.Text = "A\r\na\r\n7\r\n\\\r\n\\\r\n*\r\n+\r\n-\r\nB\r\nc\r\nF\r\ng";
             // 
             // button1
             // 
